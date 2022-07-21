@@ -24,6 +24,8 @@ app.get('/dev', (req, res)=>{
         name:'Wichan',
         surname:'Thumthong',
         email:'chankmit@gmail.com',
+        org:'Rambhai Barni Rajabhat University',
+        department: 'Network Technolgoy'
     })
 })
 
